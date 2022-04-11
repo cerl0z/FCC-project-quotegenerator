@@ -157,7 +157,6 @@ class QuoteBox extends React.Component {
               </Box>
               <Link
                 href={`https://twitter.com/intent/tweet?hashtags=quotes&text=${tweetQuote}`}
-                className="hoverStyle"
                 id="tweet-quote"
                 target="_blank"
                 underline="none"
